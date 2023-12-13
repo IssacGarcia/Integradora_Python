@@ -1,0 +1,57 @@
+[
+    {
+        "tipo": "DIS",
+        "nSensor": "1",
+        "valor": "262.66"
+    },
+    {
+        "tipo": "DIS",
+        "nSensor": "1",
+        "valor": "263.09"
+    },
+    {
+        "tipo": "SS",
+        "nSensor": "1",
+        "valor": "120"
+    },
+    {
+        "tipo": "ST",
+        "nSensor": "0",
+        "valor": "25.00"
+    },
+    {
+        "tipo": "DIS",
+        "nSensor": "1",
+        "valor": "4.64"
+    },
+    {
+        "tipo": "DIS",
+        "nSensor": "1",
+        "valor": "260.34"
+    },
+    {
+        "tipo": "SS",
+        "nSensor": "1",
+        "valor": "0"
+    },
+    {
+        "tipo": "ST",
+        "nSensor": "0",
+        "valor": "25.50"
+    },
+    {
+        "tipo": "SH",
+        "nSensor": "0",
+        "valor": "45.00"
+    },
+    {
+        "tipo": "SM",
+        "nSensor": "1",
+        "valor": "1"
+    },
+    {
+        "tipo": "DIS",
+        "nSensor": "1",
+        "valor": "259.18"
+    }
+]
